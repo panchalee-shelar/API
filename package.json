@@ -1,0 +1,11 @@
+{
+  "name": "fetchapi",
+  "version": "1.0.0",
+  "description": "fetch live api",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Panchalee Shelar",
+  "license": "ISC"
+}
